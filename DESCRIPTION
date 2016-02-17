@@ -1,0 +1,13 @@
+Package: readxlExtras
+Type: Package
+Title: Read Excel Files w. extended coltype detection
+Version: 0.1
+Date: 2016-02-17
+Author: Stefan Jansson
+Maintainer: Stefan Jansson <janzzon@gmail.com>
+Description: Import excel files into R similar to readxl::read_excel,
+    but with all rows evaluated in xls[x]_col_types
+License: GPL-2
+LazyData: TRUE
+Imports: readxl
+RoxygenNote: 5.0.1
